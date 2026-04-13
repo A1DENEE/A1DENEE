@@ -5,9 +5,9 @@
   <br><br>
 
   <h3>About Me</h3>
-  <p>FCU IECS | CTF Player | Security Enthusiast</p>
+  <p>FCU IECS | CTF Player | Security </p>
 
   <br>
-  <img src="cat.gif" width="60%" alt="My Kitten">
+  <img src="cat.gif" width="70%" alt="My Kitten">
   
 </div>
