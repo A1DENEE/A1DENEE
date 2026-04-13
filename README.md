@@ -8,6 +8,6 @@
   <p>FCU IECS | CTF Player | Security </p>
 
   <br>
-  <img src="cat.gif" width="90%" alt="My Kitten">
+  <img src="cat.gif" width="50%" alt="My Kitten">
   
 </div>
